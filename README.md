@@ -1,4 +1,4 @@
-# Send Whatsapp Messages Using Python :D
+# Bomb Whatsapp Number Using Python
 
 #1 - Setup for the code
 1 : pip install twilio
