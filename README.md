@@ -1,6 +1,7 @@
 # Bomb Whatsapp Number Using Python
 
 #1 - Setup for the code
+
 1 : pip install twilio
 
 2 : go to https://www.twilio.com/ and register
