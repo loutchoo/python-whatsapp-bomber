@@ -28,6 +28,7 @@ To stop the bomber script you just have to : Ctrl + C
 
 
 French :
+
 #1 - Préparations pour le code
 
 1 : pip install twilio
