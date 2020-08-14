@@ -20,5 +20,7 @@ website is showing you.
 ----------------------------------------------------------------------------------------
 
 The python Whatsapp bomber is now working :pp
+He will ask you the whatsapp number and the message you want to send.
+To stop the bomber script you just have to : Ctrl + C
 
-******** By Loutcho_Q ********
+******** Code By Loutcho_Q ********
